@@ -1,3 +1,4 @@
 # ignorar el dataset de lab05
 /Laboratories/lab05/datasets/
 
+/Laboratories/lab05/models/
