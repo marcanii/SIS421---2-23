@@ -1,4 +1,11 @@
 # ignorar el dataset de lab05
 /Laboratories/lab05/datasets/
 
+# ignorar los modelos entrenados de lab05
 /Laboratories/lab05/models/
+
+# ignorar el dataset del primer parcial
+/Evaluations/1erParcial/datasets/
+
+# ignorar los modelos entrenados del primer parcial
+/Evaluations/1erParcial/models/
