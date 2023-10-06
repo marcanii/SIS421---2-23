@@ -9,3 +9,9 @@
 
 # ignorar los modelos entrenados del primer parcial
 /Evaluations/1erParcial/models/
+
+# ignorar el dataset de la defensa de laboratorios
+/Evaluations/DefensaLab/dataset
+
+# ignorar los modelos entrenados de la defensa de laboratorios
+/Evaluations/DefensaLab/models/
