@@ -15,3 +15,6 @@
 
 # ignorar los modelos entrenados de la defensa de laboratorios
 /Evaluations/DefensaLab/models/
+
+# ignorar los modelos entranados de lab06
+/Laboratories/lab06/models/
