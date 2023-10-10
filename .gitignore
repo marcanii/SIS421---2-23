@@ -1,20 +1,19 @@
-# ignorar el dataset de lab05
+# ignorar el dataset y modelos de lab05
 /Laboratories/lab05/datasets/
-
-# ignorar los modelos entrenados de lab05
 /Laboratories/lab05/models/
 
-# ignorar el dataset del primer parcial
+# ignorar el dataset y modelos del primer parcial
 /Evaluations/1erParcial/datasets/
-
-# ignorar los modelos entrenados del primer parcial
 /Evaluations/1erParcial/models/
 
-# ignorar el dataset de la defensa de laboratorios
+# ignorar el dataset y modelos de la defensa de laboratorios
 /Evaluations/DefensaLab/dataset
-
-# ignorar los modelos entrenados de la defensa de laboratorios
 /Evaluations/DefensaLab/models/
 
 # ignorar los modelos entranados de lab06
 /Laboratories/lab06/models/
+
+# ignorar dataset de lab07
+/Laboratories/lab07/datasets/
+/Laboratories/lab07/models/
+/Laboratories/lab07/lightning_logs/
