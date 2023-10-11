@@ -17,3 +17,6 @@
 /Laboratories/lab07/datasets/
 /Laboratories/lab07/models/
 /Laboratories/lab07/lightning_logs/
+
+# ignorar modelos de computer vision
+/Computer Vision/04 Segmentacion/models
