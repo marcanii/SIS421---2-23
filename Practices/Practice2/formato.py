@@ -19,6 +19,6 @@ def convert_images_to_jpg(dataset_path, output_path):
                 continue
 
 # Ruta a tu directorio de imágenes
-dataset_path = "D:\ejemplo\camion"
-output_path = "D:\ejemplo\FomCam"
+dataset_path = "path"
+output_path = "path"
 convert_images_to_jpg(dataset_path, output_path)

@@ -11,10 +11,10 @@ def convert_rgba_to_rgb(image_path, output_path):
         print(f"Error al convertir {image_path} a RGB: {e}")
 
 # Ruta a tu directorio de imágenes RGBA
-rgba_images_path = "D:\Trabajos\IA 2 - 2023-2\ejemParcial\\train\white-glass"
+rgba_images_path = "path"
 
 # Ruta donde deseas guardar las imágenes RGB
-output_path = "D:\Trabajos\IA 2 - 2023-2\ejemParcial\\trash_dataset\white-glass"
+output_path = "path"
 
 if not os.path.exists(output_path):
     os.makedirs(output_path)

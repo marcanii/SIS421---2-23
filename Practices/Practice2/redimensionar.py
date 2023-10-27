@@ -28,10 +28,10 @@ def resize_images_in_folder(folder_path, output_folder_path):
     print("¡Redimensionado completado!")
 
 # Ruta de la carpeta que contiene las imágenes originales
-folder_path = "E:\Imagenes para IA CARTONES"
+folder_path = "path"
 
 # Ruta de la carpeta de salida para las imágenes redimensionadas
-output_folder_path = "E:\Redimensionadas"
+output_folder_path = "path"
 
 # Llama a la función para redimensionar todas las imágenes en la carpeta
 resize_images_in_folder(folder_path, output_folder_path)
