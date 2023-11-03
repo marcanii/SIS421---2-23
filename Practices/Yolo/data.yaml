@@ -1,0 +1,13 @@
+train: /Practices/Yolo/Dataset/Camera.v7i.yolov8/train/images
+val: /Practices/Yolo/Dataset/Camera.v7i.yolov8/valid/images
+test: /Practices/Yolo/Dataset/Camera.v7i.yolov8/test/images
+
+nc: 3
+names: ['camera', 'router', 'vehicle']
+
+roboflow:
+  workspace: usfx-z3zbf
+  project: camera-rolfj
+  version: 7
+  license: Public Domain
+  url: https://universe.roboflow.com/usfx-z3zbf/camera-rolfj/dataset/7
