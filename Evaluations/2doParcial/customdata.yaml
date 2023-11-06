@@ -1,0 +1,7 @@
+path: E:/6° Semestre/Inteligencia Artificial II/SIS421---2-23/Evaluations/2doParcial/Dataset/Segundoparcialv8iyolov8/
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+labels: ['cuaderno', 'gaseosa', 'rueda']
+nc: 3
+names: ['cuaderno', 'gaseosa', 'rueda']
