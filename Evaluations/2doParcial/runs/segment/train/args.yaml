@@ -2,7 +2,7 @@ task: segment
 mode: train
 model: yolov8x-seg.pt
 data: customdata.yaml
-epochs: 100
+epochs: 50
 patience: 50
 batch: 16
 imgsz: 512
@@ -12,7 +12,7 @@ cache: false
 device: cuda
 workers: 8
 project: null
-name: train
+name: train4
 exist_ok: false
 pretrained: true
 optimizer: auto
@@ -95,4 +95,4 @@ mixup: 0.0
 copy_paste: 0.0
 cfg: null
 tracker: botsort.yaml
-save_dir: runs\segment\train
+save_dir: runs\segment\train4

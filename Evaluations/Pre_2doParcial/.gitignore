@@ -1,0 +1,8 @@
+# ignorar dataset
+/Dataset
+
+*.pt
+
+/runs/segment/train/weights
+
+/models

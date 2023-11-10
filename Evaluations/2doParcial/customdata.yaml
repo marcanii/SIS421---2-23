@@ -1,7 +1,7 @@
-path: E:/6° Semestre/Inteligencia Artificial II/SIS421---2-23/Evaluations/2doParcial/Dataset/Segundoparcialv8iyolov8/
+path: E:/6° Semestre/Inteligencia Artificial II/SIS421---2-23/Evaluations/2doParcial/Dataset/Moneyv6iyolov8
 train: ./train/images
 val: ./valid/images
 test: ./test/images
-labels: ['cuaderno', 'gaseosa', 'rueda']
+
 nc: 3
-names: ['cuaderno', 'gaseosa', 'rueda']
+names: ['10bs', '20bs', '50bs']
